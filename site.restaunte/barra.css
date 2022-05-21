@@ -1,0 +1,33 @@
+body{
+    background-image: url('foto/r.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 9;
+    padding: 12;
+    overflow: hidden;
+    background-color: rgba(3, 3, 3, 0.301);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(8, 6, 4);
+  }h1{
+      color:aquamarine
+  }
+
